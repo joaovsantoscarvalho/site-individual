@@ -1,0 +1,53 @@
+body {
+    font-family: ;
+    margin: ;
+    padding: ;
+    background-color: ;
+    color: ;
+}
+
+header {
+    background-color: ;
+    color: ;
+    padding: 20px; 
+    text-align: ;
+}
+
+footer {
+    background-color: ;
+    color: white;
+    padding: 10px;
+    text-align: ;
+    position: ;
+    width: 100%;
+    bottom: ;
+}
+
+.content {
+    margin: 20px;
+    text-align: center;
+}
+
+button {
+    background-color: ;
+    color: ;
+    padding: ;
+    border: ;
+    cursor: pointer;
+    font-size: ;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: ;
+}
+
+.hidden {
+    display: ;
+}
+
+#interactive-text {
+    margin: ;
+    font-size: ;
+    color: ;
+}
