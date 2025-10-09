@@ -1,3 +1,3 @@
 document.getElementById('contactButton').addEventListener('click', function() {
-    alert('sua mensagem foi enviada com sucessso!');
+    alert('Sua mensagem foi enviada com sucesso!');
 });
