@@ -1,3 +1,1 @@
-document.getElementById('contactButton').addEventListener('click', function() {
-    alert('Sua mensagem foi enviada com sucesso!');
-});
+console.log("Site de Nutrição no Espote carregado!");
